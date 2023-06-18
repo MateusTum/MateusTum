@@ -6,7 +6,7 @@ I'm a former Law Schol Student and I'm currently endeavouring on a Python develo
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mateus-rosa-tum-7b803a1b6/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mateus-rosa-tum-7b803a1b6/)
 
 
 ## More about me
