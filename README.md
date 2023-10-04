@@ -1,18 +1,35 @@
 # Hi, I'm Mateus, welcome to my Github profile! 👋
 
+<html>
+<body>
+    <h1>About Me</h1>
+    <p>
 
-## 🚀 About Me
-I'm 23 from Brazil. Since my childhood, I am fascinated by technology and computers. When I was 11 years old, I used to play with some HTML,
-but was too young to really understand what coding was all about. Due to the lack of information and maturity at the time,
-I didn't see coding as something that I would like to work with for the rest of my life, coding was basically burried deep inside of me.
+        > As you can see, my html is pretty basic LOL
+        
+        I'm a 23-year-old from Brazil with a lifelong passion for technology and computers.
+        My journey into the world of coding began at a young age when I dabbled in HTML at the age of 11,
+        even though I couldn't fully grasp its depth at the time.
+        This early exposure sparked a hidden interest in coding within me.
+        
+        As I approached the end of my high school years, I faced the inevitable question:
+        "What career path should I pursue after graduation?"
+        I found myself accepted into Law School at a Federal University in my hometown.
+        The choice between Law School and programming may seem perplexing,
+        especially for a 17-year-old who was still discovering himself.
+        
+        Fast forward to 2022, and I successfully completed my law degree.
+        However, during that time, I embarked on an exchange program to the United States,
+        which transformed me and my perspective.
+        Upon returning to Brazil, I had undergone a profound change.
+        I realized that I no longer wanted to pursue a career in law,
+        but I had gained something invaluable: discipline.
+        
+        Now, I'm wholeheartedly dedicated to pursuing my passion for coding and technology,
+        armed with the discipline I acquired during my journey.
 
-When I started High School, I was facen by "What am I going to work with after High School?", so I got approved to Law School at a Federal University in my hometown
-"But wait, Law School and programming? What is the relation between those things?" You may ask, and well, let's say that a young 17 y/o boy didn't know anything about himself at the time.
-
-At the end of my graduation on 2022, I decided to do an exchange program to the United States of America... That made me complety destroy any chance of working with Law School.
-When I got back to Brazil, after my exchange program, I was complety changed, I didn't want to work with what I was studying for years in my university, but now I had something that I didn't have, discipline.
-
-And here I am, a former Law School guy that got his passion back to life.
+</body>
+</html>
 
 
 ## 🔗 Links
