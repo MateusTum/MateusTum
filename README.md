@@ -34,12 +34,15 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rosa-tum-7b803a1b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateustum)
 
 
 ## More about me
 👩‍💻 I'm currently working on personal study projects
 
-🧠 I'm currently learning Python
+🧠 I'm currently learning Python, HTML and how to use Github
+
+📫 How to reach me > Instagram or Email (mateus.tum@icloud.com)
 
 <!--
 👯‍♀️ I'm looking to collaborate on...
@@ -48,7 +51,6 @@
 
 💬 Ask me about...
 
-📫 How to reach me...
 
 😄 Pronouns...
 
