@@ -60,6 +60,7 @@
 
 ## 🛠 Skills
 Python (Intermediate)
+
 HTML (Basic)
 
 
