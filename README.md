@@ -59,7 +59,8 @@
 -->
 
 ## 🛠 Skills
-Python (Intermediate level)
+Python (Intermediate)
+HTML (Basic)
 
 
 
