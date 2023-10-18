@@ -58,9 +58,8 @@
 
 <h2>🛠 Skills</h2>
 <p>
-Python<br/>
-HTML<br/>
-CSS
+Python - Flask <br/>
+HTML, CSS, Javascript<br/>
 </p>
 
 </body>
