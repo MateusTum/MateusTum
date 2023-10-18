@@ -17,7 +17,7 @@
         especially for a 17-year-old who was still discovering himself.
 </p>
 <p>
-        Fast forward to 2022, and I successfully completed my law degree.
+        Fast forward to 2022, and I aproach the end of my law studies.
         However, during that time, I embarked on an exchange program to the United States,
         which transformed me and my perspective.
         Upon returning to Brazil, I had undergone a profound change.
