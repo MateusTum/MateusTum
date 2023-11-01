@@ -39,7 +39,7 @@
 
 <h2>More about me</h2>
 <p>👩‍💻 I'm currently working on personal study projects</p>
-<p>🧠 I'm currently learning Python, HTML and how to use Github</p>
+<p>🧠 I'm currently improving my Python Skills</p>
 <p>📫 How to reach me > Instagram or Email (mateus.tum@icloud.com)</p>
 
 <!--
@@ -57,10 +57,13 @@
 -->
 
 <h2>🛠 Skills</h2>
-<p>
-Python - Flask <br/>
-HTML, CSS, Javascript<br/>
-</p>
+
+![python](https://img.shields.io/badge/-Python-E34F26?logo=python)
+![flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+![html](https://img.shields.io/badge/-HTML-5850EC?logo=html5)
+![css](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3)
+![javascript](https://img.shields.io/badge/-JavaScript-8CA1AF?logo=JavaScript)
+![sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite)
 
 </body>
 </html>
