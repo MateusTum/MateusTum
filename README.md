@@ -63,6 +63,7 @@
 ![html](https://img.shields.io/badge/-HTML-5850EC?logo=html5)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3)
 ![javascript](https://img.shields.io/badge/-JavaScript-8CA1AF?logo=JavaScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0288D1?logo=Bootstrap)
 ![sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite)
 
 </body>
