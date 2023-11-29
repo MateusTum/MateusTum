@@ -58,13 +58,17 @@
 
 <h2>🛠 Skills</h2>
 
-![python](https://img.shields.io/badge/-Python-E34F26?logo=python)
-![flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
-![html](https://img.shields.io/badge/-HTML-5850EC?logo=html5)
-![css](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3)
-![javascript](https://img.shields.io/badge/-JavaScript-8CA1AF?logo=JavaScript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0288D1?logo=Bootstrap)
-![sqlite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4EAE53?logo=python&logoColor=white&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 </body>
 </html>
