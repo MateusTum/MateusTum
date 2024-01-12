@@ -52,9 +52,11 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4EAE53?logo=python&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 <br>
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
