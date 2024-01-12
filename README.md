@@ -4,7 +4,7 @@
 <body>
 <h2>About Me</h2>
 <p>
-        I'm a 23-year-old from Brazil with a lifelong passion for technology and computers.
+        I'm a 24-year-old from Brazil with a lifelong passion for technology and computers.
         My journey into the world of coding began at a young age when I dabbled in HTML at the age of 11,
         even though I couldn't fully grasp its depth at the time.
         This early exposure sparked a hidden interest in coding within me.
@@ -39,52 +39,25 @@
 
 <h2>More about me</h2>
 <p>👩‍💻 I'm currently working on personal study projects</p>
-<p>🧠 I'm currently improving my Python Skills</p>
+<p>🧠 I'm currently improving my Django and Javascript Skills</p>
 <p>📫 How to reach me > Instagram or Email (mateus.tum@icloud.com)</p>
-
-<!--
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
--->
 
 <h2>🛠 Skills</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4EAE53?logo=python&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+<br>
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 </body>
 </html>
-
-
-<!--
-**MateusTum/MateusTum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
