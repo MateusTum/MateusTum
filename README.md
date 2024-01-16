@@ -29,7 +29,7 @@
         armed with the discipline I acquired during my journey.
 </p>
 <p>
-        Some of my main projects are fixed in this profile.
+        Some of my main projects are fixed on this profile.
 </p>
 
 
