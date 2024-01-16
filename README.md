@@ -38,7 +38,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rosa-tum-7b803a1b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateustum)
 
-
 <h2>More about me</h2>
 <p>👩‍💻 I'm currently working on personal study projects</p>
 <p>🧠 I'm currently improving my Django and React Skills</p>
@@ -64,6 +63,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 <br>
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
-
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTum&theme=tokyonight)
 </body>
 </html>
