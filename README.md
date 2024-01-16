@@ -27,7 +27,9 @@
 <p>
         Now, I'm wholeheartedly dedicated to pursuing my passion for coding and technology,
         armed with the discipline I acquired during my journey.
-
+</p>
+<p>
+        Some of my main projects are fixed in this profile.
 </p>
 
 
@@ -39,7 +41,7 @@
 
 <h2>More about me</h2>
 <p>👩‍💻 I'm currently working on personal study projects</p>
-<p>🧠 I'm currently improving my Django and Javascript Skills</p>
+<p>🧠 I'm currently improving my Django and React Skills</p>
 <p>📫 How to reach me > Instagram or Email (mateus.tum@icloud.com)</p>
 
 <h2>🛠 Skills</h2>
