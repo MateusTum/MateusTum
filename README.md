@@ -64,6 +64,6 @@
 <br>
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTum&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateustum&hide=css&theme=tokyonight)
 </body>
 </html>
