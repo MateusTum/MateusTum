@@ -42,6 +42,7 @@
 <br>
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateustum&hide=css&theme=tokyonight)
 </body>
