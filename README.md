@@ -3,9 +3,9 @@
 <html>
 <body>
 <h2>My Work</h2>
-        <p>
-        Portfolio(WIP): https://mateustum.github.io/portfolio/
-                </p>
+   
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio(WIP)-Check_it_Out-blue?style=for-the-badge)](https://mateustum.github.io/portfolio/)
+
 <p>
         Some of my main projects are fixed on this profile.
 </p>
