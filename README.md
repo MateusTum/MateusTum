@@ -4,7 +4,7 @@
 <body>
 <h2>My Work 🖥️🤓</h2>
    
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio(WIP)-Check_it_Out-blue?style=for-the-badge)](https://mateustum.github.io/portfolio/)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio(WIP)-Check_it_Out-blue?style=for-the-badge)](https://mateustum.vercel.app)
 
 <p>
         Some of my main projects are listed on this profile.
